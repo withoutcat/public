@@ -12,5 +12,7 @@ public class Test {
         };
         demo.say(5);
         demo.say(5,6);
+
+        System.out.println("多一些东西");
     }
 }
